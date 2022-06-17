@@ -1,0 +1,3 @@
+include ':regoad'
+include ':app'
+rootProject.name = "RegoDemo"
